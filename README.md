@@ -1,5 +1,5 @@
 # Students'Scores Managment
-
+### By Git-a-Live (Wechat: Git)
 *This is a simple project for C++ learning*
 
 Even this program is based on C++ but it seems based on C more likely, since I hardly used important features of C++. 
